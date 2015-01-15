@@ -30,7 +30,8 @@ const help = "/q to quit\n" +
 	"/flush to flush all subscriptions\n" +
 	"/nosave to quit without saving\n" +
 	"\n"+
-	"/user to set your username\n"
+	"/user to set your username\n" +
+	"enter to see all subscription prices\n"
 	
 var user string
 const sys = "tpskritt"
