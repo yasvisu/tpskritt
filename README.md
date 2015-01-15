@@ -60,6 +60,8 @@ What you can do with tpskritt:
   `/nosave` to quit without saving
   
   `/user` to set your username
+  
+  `enter` to show the prices of all subscriptions
 
 ## Development state
 ###V0.1
