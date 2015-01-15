@@ -22,6 +22,7 @@ import (
 
 const help = "/q to quit\n" +
 	"help for help\n" +
+	"/save to save your settings and subscriptions\n" +
 	"/sub {item} to subscribe for the item\n" +
 	"/subid to subscribe ids in bulk\n" +
 	"/subs for a list of subscriptions\n" +
@@ -33,8 +34,8 @@ const help = "/q to quit\n" +
 	
 var user string
 const sys = "tpskritt"
-const ver = "CONCEPT"
-const MAXSUBS = 100
+const ver = "v0.1"
+const MAXSUBS = 20
 
 //INIT
 
