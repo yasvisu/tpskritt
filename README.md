@@ -1,7 +1,7 @@
 # tpskritt
 
 ##[Guild Wars 2](https://www.guildwars2.com/en-gb/) - Trading Post tool written on [Go](http://golang.org/).
-This tool is also meant to also be an application of the [Go GW2API wrapper](https://github.com/yasvisu/gw2api).
+This tool is also meant to be an application of the [Go GW2API wrapper](https://github.com/yasvisu/gw2api).
 
 Note:
 This is an experimental command-line tool and may change in functionality at any moment.
